@@ -1,9 +1,12 @@
+---
+---
+
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
-    <title>Mailforge | HTML email templates </title>
+    <title>Mailforge | {{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content=" mailforge provides email templates for startups, freelancers, e-commerce businesses. Crafted by top HTML blacksmiths" />
     <meta name="keywords" content="email, email marketing, html, html templates, email html templates, marketing" />
@@ -33,7 +36,7 @@
     <header>
         <nav>
             <div class="logo">
-             <a href="index.html"> <img src="img/mailforge.svg" alt=""></a>
+              <a href="index.html"><img src="img/mailforge.svg" alt=""></a>
             </div>
 
             <ul class="navBullets">
@@ -41,9 +44,9 @@
             </ul>
         </nav>
         <div class="hero">
-            <h1>Developing HTML email It's old skool</h1>
+            <h1>{{ page.email-heading }}</h1>
             <h3>
-                We equip startups and entrepreneurs with sharp email templates crafted by top HTML blacksmiths. Emails that will make your users “click”!
+                {{ page.email-description }}
             </h3>
         </div>
         <div class="benefitsContainer">
@@ -67,50 +70,9 @@
           </div>
         </div>     
     </header>
-    <section class="containerEmails">
-        <div class="emailsElement">
-            <div class="emailElement__image">
-               <a href="reset-password.html"><img src="img/preview-Reset-Password.png" alt="Reset Password email template"></a>
-            </div>
-            <div class="emailElement__text">
-                <a href="reset-password.html"><h2>Reset Password</h2></a>
-                <p>A very clean interface leaving out anything that may potentially confuse the user as well having a bulletproof button that works in all email clients</p>
-                <a class="btn btn--yellow" href="reset-password.html">Look details</a>
-            </div>
-        </div>
-        <div class="emailsElement">
-            <div class="emailElement__image">
-                <a href="welcome-message.html"><img src="img/preview-onboarding-welcome-message.png" alt="welcome message email template"></a>
-            </div>
-            <div class="emailElement__text ">
-                <a href="welcome-message.html"><h2>Welcome Message</h2></a>
-                <p>When a new user registers to your app, or subscribe to your list, send an automated welcome email that creates engagement and guide the users to the next steps</p>
-                <a class="btn btn--yellow" href="welcome-message.html">Look details</a>
-            </div>
-        </div>
-    </section>
-    <section id="customEmail">
-	<div class="customEmail__card">
-		<div class="customEmail__card__image">
-			<img src="img/blacksmith-customhtmlemail.svg" alt="">	
-		</div>
-		<div class="customEmail__card__text">
-			<h2>Looking for a custom email template?</h2>
-			<p>We know coding emails is hard. Do not bother dealing with tables, browsers and html limitations, we create a custom email based on your needs, meanwhile you continue conquering the 7 kingdoms</p>
-			<a href="https://mailforge.typeform.com/to/pfwuIz" class="btn btn--orange">Yes, Craft an email just for me</a>
-		</div>
-	</div>
-</section>
-    <footer>
-	<div class="footer_wrapper">
-		<h3>© 2017 Mailforge.co</h3>
-		<ul class="navBullets">
-			<a href="mailto:hello@mailforge.co;"><li>Support</li></a>
-			<!--<li>Tutorial</li>-->
-			<!--<li>Terms</li>-->
-		</ul>
-	</div>
-</footer>
+     {{ content }}
+    {% include customEmail.html %}
+    {% include footer.html %}
 
     <!-- JS -->
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>

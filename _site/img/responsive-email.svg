@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 132 109" style="enable-background:new 0 0 132 109;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2B3140;}
+	.st1{fill:#FFCC00;}
+	.st2{fill:#CBD4DE;}
+	.st3{fill:#F0F0F0;}
+	.st4{fill:#AAB0B8;}
+	.st5{fill:#EBF3FF;}
+	.st6{fill:url(#Rectangle-path_9_);}
+	.st7{fill:#E2EBFA;}
+	.st8{opacity:0.25;fill:url(#Shape_12_);enable-background:new    ;}
+	.st9{fill:#F1F6FF;}
+	.st10{fill:#313B51;}
+	.st11{fill:#2A7DEB;}
+	.st12{fill:#4F5A71;}
+	.st13{fill:url(#Rectangle-path_10_);}
+	.st14{opacity:0.25;fill:url(#Shape_13_);enable-background:new    ;}
+	.st15{fill:url(#Oval_1_);}
+	
+		.st16{opacity:0.11;fill:none;stroke:#6FB770;stroke-width:2.3382;stroke-linecap:round;stroke-linejoin:round;enable-background:new    ;}
+	.st17{fill:none;stroke:#FFFFFF;stroke-width:2.3382;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>responsive-email</title>
+<desc>Created with Sketch.</desc>
+<path id="Shape" class="st0" d="M115.5,10.7h-101c-2.5,0-4.6,2-4.6,4.6v68c0,2.5,2.1,4.6,4.6,4.6h101c2.5,0,4.6-2,4.6-4.6v-68
+	C120.1,12.8,118,10.8,115.5,10.7z"/>
+<rect id="Rectangle-path" x="16.8" y="17.6" class="st1" width="96.4" height="63.2"/>
+<rect id="Rectangle-path_1_" x="44" y="87.9" class="st2" width="42" height="12.3"/>
+<rect id="Rectangle-path_2_" x="31.3" y="100.2" class="st3" width="67.5" height="3"/>
+<rect id="Rectangle-path_3_" x="44" y="87.9" class="st4" width="42" height="3.4"/>
+<rect id="Rectangle-path_4_" x="22.7" y="26.6" class="st5" width="84.1" height="47"/>
+<radialGradient id="Rectangle-path_9_" cx="-543.8377" cy="665.4005" r="0.4864" gradientTransform="matrix(-47.0244 0 0 47.0244 -25508.6816 -31272.3633)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#5F7BE1"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<rect id="Rectangle-path_5_" x="22.7" y="26.6" class="st6" width="84.1" height="47"/>
+<polygon id="Shape_1_" class="st7" points="51.9,43.1 78.3,42.7 107,73.4 22.9,73.4 "/>
+<linearGradient id="Shape_12_" gradientUnits="userSpaceOnUse" x1="-526.1619" y1="636.2149" x2="-526.1619" y2="637.2149" gradientTransform="matrix(84.0946 0 0 -30.6437 44312.2969 19569.3477)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.18" style="stop-color:#FDFDFF;stop-opacity:1.000000e-02"/>
+	<stop  offset="0.31" style="stop-color:#F6F7FD;stop-opacity:6.000000e-02"/>
+	<stop  offset="0.44" style="stop-color:#EAEEFB;stop-opacity:0.13"/>
+	<stop  offset="0.56" style="stop-color:#D9E0F8;stop-opacity:0.23"/>
+	<stop  offset="0.67" style="stop-color:#C4CEF4;stop-opacity:0.37"/>
+	<stop  offset="0.77" style="stop-color:#AAB9EF;stop-opacity:0.53"/>
+	<stop  offset="0.88" style="stop-color:#8A9FE9;stop-opacity:0.73"/>
+	<stop  offset="0.98" style="stop-color:#6782E3;stop-opacity:0.95"/>
+	<stop  offset="1" style="stop-color:#5F7BE1"/>
+</linearGradient>
+<polygon id="Shape_2_" class="st8" points="51.9,43.1 78.3,42.7 107,73.4 22.9,73.4 "/>
+<polygon id="Shape_3_" class="st9" points="22.8,26.6 106.8,26.6 65.2,51 "/>
+<path id="Shape_4_" class="st10" d="M128.3,45.5H99.7c-1.9,0-3.5,1.8-3.5,4.1v55c0,2.3,1.6,4.1,3.5,4.1h28.6c1.9,0,3.5-1.8,3.5-4.1
+	v-55C131.8,47.3,130.2,45.5,128.3,45.5z"/>
+<rect id="Rectangle-path_6_" x="99" y="53.1" class="st11" width="30" height="46"/>
+<path id="Shape_5_" class="st12" d="M116.4,102.4h-5.4c-0.7,0-1.2,0.6-1.2,1.4s0.5,1.4,1.2,1.4h5.4c0.7,0,1.2-0.6,1.2-1.4
+	c0.1-0.4,0-0.7-0.3-1S116.7,102.4,116.4,102.4L116.4,102.4z"/>
+<path id="Shape_6_" class="st12" d="M118.5,48.8h-8.9c-0.4,0-0.5,0.2-0.5,0.6s0.2,0.6,0.5,0.6h8.9c0.4,0,0.5-0.2,0.5-0.6
+	S118.8,48.8,118.5,48.8z"/>
+<rect id="Rectangle-path_7_" x="102.4" y="70" class="st5" width="24.1" height="13.5"/>
+<radialGradient id="Rectangle-path_10_" cx="-102.8805" cy="345.131" r="41.93" gradientTransform="matrix(-13.4765 0 0 13.4764 -12579.8574 -9288.5938)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#5F7BE1"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<rect id="Rectangle-path_8_" x="102.4" y="70" class="st13" width="24.1" height="13.5"/>
+<polygon id="Shape_7_" class="st7" points="110.8,74.7 118.3,74.6 126.5,83.4 102.4,83.4 "/>
+<linearGradient id="Shape_13_" gradientUnits="userSpaceOnUse" x1="-510.3854" y1="300.0436" x2="-510.3854" y2="331.6436" gradientTransform="matrix(24.1017 0 0 -8.7823 12415.6426 5282.0493)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.18" style="stop-color:#FDFDFF;stop-opacity:1.000000e-02"/>
+	<stop  offset="0.31" style="stop-color:#F6F7FD;stop-opacity:6.000000e-02"/>
+	<stop  offset="0.44" style="stop-color:#EAEEFB;stop-opacity:0.13"/>
+	<stop  offset="0.56" style="stop-color:#D9E0F8;stop-opacity:0.23"/>
+	<stop  offset="0.67" style="stop-color:#C4CEF4;stop-opacity:0.37"/>
+	<stop  offset="0.77" style="stop-color:#AAB9EF;stop-opacity:0.53"/>
+	<stop  offset="0.88" style="stop-color:#8A9FE9;stop-opacity:0.73"/>
+	<stop  offset="0.98" style="stop-color:#6782E3;stop-opacity:0.95"/>
+	<stop  offset="1" style="stop-color:#5F7BE1"/>
+</linearGradient>
+<polygon id="Shape_8_" class="st14" points="110.8,74.7 118.3,74.6 126.5,83.4 102.4,83.4 "/>
+<polygon id="Shape_9_" class="st9" points="102.4,70 126.5,70 114.6,77 "/>
+<g id="Group-7">
+	
+		<linearGradient id="Oval_1_" gradientUnits="userSpaceOnUse" x1="-511.4576" y1="632.342" x2="-510.4576" y2="632.342" gradientTransform="matrix(24.7419 0 0 -24.5961 12654.4521 15565.4482)">
+		<stop  offset="0" style="stop-color:#ACCE58"/>
+		<stop  offset="0.42" style="stop-color:#95C561"/>
+		<stop  offset="1" style="stop-color:#6FB770"/>
+	</linearGradient>
+	<ellipse id="Oval" class="st15" cx="12.4" cy="12.3" rx="12.4" ry="12.3"/>
+	<polyline id="Shape_10_" class="st16" points="5.9,14.6 10.3,18.8 19.6,10.1 	"/>
+	<polyline id="Shape_11_" class="st17" points="5.7,13.5 10,17.7 19.3,9 	"/>
+</g>
+</svg>
